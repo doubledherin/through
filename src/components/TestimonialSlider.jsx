@@ -35,7 +35,7 @@ const TestimonialSlider = () => {
   ]
 
   const [currentIndex, setCurrentIndex] = useState(0)
-  const [setProgress] = useState(0)
+  const [progress, setProgress] = useState(0)
 
   useEffect(() => {
     const timer = setInterval(() => {

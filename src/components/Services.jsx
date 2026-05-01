@@ -9,7 +9,7 @@ const Services = () => {
     {
       title: "Bucket List Curation",
       description:
-        "Transform your dreams into meticulously planned adventures. We craft bespoke itineraries that turn aspirations into unforgettable realities.",
+        "We turn hazy dreams into a meticulously planned realities. We craft bespoke itineraries that turn aspirations into unforgettable realities.",
       icon: "✨",
     },
     {
